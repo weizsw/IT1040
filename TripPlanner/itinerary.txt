@@ -1,0 +1,5 @@
+Trip Itinerary
+--------------
+Destination: Vienna
+Length of stay: 10
+Cost: $389.47
